@@ -68,7 +68,9 @@ Sometimes I can be very direct in the communication when I think it can be more 
 
 **If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
 
-**Humans stating opinions as facts** are a trigger for me.
+**Humans stating opinions as facts** are a trigger for me. 
+
+**Humans think they are expert in my area for having a sibling or a partner** are a trigger for me. 
 
 **Humans asking me same thing again and again and meanwhile checking their phones** are a trigger for me.
 
