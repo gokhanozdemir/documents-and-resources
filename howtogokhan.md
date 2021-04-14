@@ -1,4 +1,4 @@
-# How to Rands
+# How to Gokhan
 Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
@@ -72,6 +72,6 @@ Sometimes I can be very direct in the communication when I think it can be more 
 
 **Humans who gossip** are a trigger for me.
 
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
+**This document is a [living breathing thing](https://github.com/gokhanozdemir/documents-and-resources/blob/master/howtogokhan.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
 
 [^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
