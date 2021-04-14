@@ -70,6 +70,8 @@ Sometimes I can be very direct in the communication when I think it can be more 
 
 **Humans stating opinions as facts** are a trigger for me.
 
+**Humans asking me same thing again and again and meanwhile checking their phones** are a trigger for me.
+
 **Humans who gossip** are a trigger for me.
 
 **This document is a [living breathing thing](https://github.com/gokhanozdemir/documents-and-resources/blob/master/howtogokhan.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
